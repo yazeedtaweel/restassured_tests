@@ -1,0 +1,16 @@
+{
+    "currencies": [
+      {
+        "code": "ILS",
+        "name": "Israeli new shekel",
+        "symbol": "₪"
+      }
+    ],
+    "regionalBlocs": [],
+    "name": "Israel",
+    "capital": "Jerusalem",
+    "lat": [
+      31.5,
+      34.75
+    ]
+}
